@@ -1,0 +1,38 @@
+.icon {
+  color: #0d6efd;
+}
+.icon:hover {
+  color: #4a8ff7;
+}
+
+.mission {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mission:hover {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.card-dash {
+  cursor: pointer;
+}
+
+.missionCard {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.missionList {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bar {
+  border: 5px solid rgb(5, 80, 192);
+  border-radius: 5px;
+  width: 15rem;
+  margin: auto;
+}
